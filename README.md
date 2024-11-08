@@ -1,4 +1,4 @@
---> Toda a documentação referente ao projeto encontra-se na pasta DOCUMENTAÇÃO.
+--> Toda a documentação referente ao projeto encontra-se na pasta DOCUMENTAÇÃO, inclusive os "responses" ou testes.
 
 NOME ALUNO: GABRIEL TORRES FERNANDES
 RM: 553635
