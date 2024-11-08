@@ -1,0 +1,27 @@
+Projeto Java para Redução de Sinistro com Análise Preditiva de Atendimento
+
+1. Descrição Geral
+
+Este projeto consiste em uma aplicação Java utilizando Spring Boot com Gradle para a Odontoprev. A solução busca melhorar a eficiência e reduzir os custos operacionais por meio de uma análise preditiva de atendimento, proporcionando uma experiência aprimorada aos pacientes e contribuindo para a sustentabilidade do negócio.
+
+2. Objetivos da Primeira Sprint
+
+Implementar uma API RESTful seguindo o modelo de maturidade nível 1.
+
+Mapear as classes de entidade utilizando JPA.
+
+Criar repositórios utilizando o padrão Repository com Generics.
+
+Implementar DTOs e aplicação da Bean Validation para validação dos dados.
+
+Incluir testes para os endpoints utilizando Postman ou Insomnia.
+
+3. Evolução na Segunda Sprint
+
+Refatoração do código para melhoria da qualidade e eficiência.
+
+Implementação de HATEOAS para alcançar o nível 3 de maturidade REST.
+
+Otimização do código com o uso de Lombok para reduzir boilerplate.
+
+Melhorias nos testes de endpoints e adição de novos cenários de teste.
