@@ -24,6 +24,7 @@ public class Paciente {
     @Lob
     private String historicoMedico;
 
+    public Paciente(){}
 
     public Paciente(Long id, String nomeCompleto, LocalDate dataNascimento, String contato, String planoDeSaude, String historicoMedico) {
         this.id = id;
