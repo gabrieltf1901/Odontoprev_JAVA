@@ -121,6 +121,7 @@ Respostas de sucesso devem retornar códigos HTTP como 200 OK ou 201 Created.
 
 Diagrama de entidades
 
-![Diagrama-Entidades_JAVA](https://github.com/user-attachments/assets/263e5e88-7e4a-4647-afea-ca93c832bcb8)
+![Diagrama-Entidades_JAVA](https://github.com/user-attachments/assets/1e01adee-933a-41c2-ac12-adad87b6b2bf)
+
 
 
